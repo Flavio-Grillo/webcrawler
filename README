@@ -1,0 +1,46 @@
+WEB CRAWLER 
+
+--Flavio Augusto Grillo Reis--
+--📚💻 Graduando em analise de sistemas 📚💻--
+
+
+O código é bem simples e foi desenvolvido através de alguns materiais disponíveis na web 
+a função dele é bem simples. Em resumo, o código acessa a página IMDb que contém os filmes mais bem avaliados 😊🎬,
+extrai os títulos dos filmes presentes no elemento <h3> com a classe "ipc-title__text" e, em seguida, 
+salva a lista de títulos em um arquivo de texto chamado "dados_obtidos.txt"  📝.
+
+o codigo pode ser usado para obter dados de diversas páginas,
+lembrando sempre de mudar o link para o da página necessária,
+verificar como a página está estruturada, para assim adicionar a tag correta 
+e a classe correta na hora de buscar as informações 
+
+🚀 PS "O uso de web crawlers para obter dados com fins maliciosos é estritamente proibido e vai contra os princípios éticos.
+É importante sempre utilizar web crawlers de maneira responsável, 
+respeitando os termos de uso e as políticas dos sites que estão sendo rastreados. 
+Além disso, é fundamental observar os limites impostos pelos sites,
+garantindo que a coleta de dados seja feita de forma ética e legal.
+Web crawlers são ferramentas valiosas quando usadas para propósitos legítimos,
+como indexação de mecanismos de busca, análise de dados e pesquisa acadêmica. 
+A prática de respeitar as políticas e regulamentos relacionados à privacidade e segurança de dados 7
+é essencial para uma utilização responsável de web crawlers. 😇🌟🔒"
+
+
+The code is quite simple and was developed using some materials available on the web.
+Its purpose is straightforward. In summary, the code accesses the IMDb page that contains the top-rated movies 😊🎬,
+extracts the movie titles present in the <h3> element with the class "ipc-title__text", 
+and then saves the list of titles into a text file named "dados_obtidos.txt" 📝.
+
+The code can be used to retrieve data from various pages, 
+always remembering to change the link to the necessary page and check how the page is structured,
+so as to add the correct tag and class when fetching the information.
+
+🚀 PS: "The use of web crawlers to obtain data for malicious purposes is strictly prohibited and goes against ethical principles.
+It is important to always use web crawlers responsibly, respecting the terms of use and policies of the sites being crawled.
+Additionally, it is crucial to observe the limits imposed by the sites, ensuring that data collection is done ethically and legally.
+Web crawlers are valuable tools when used for legitimate purposes, such as search engine indexing, data analysis, and academic research.
+The practice of respecting policies and regulations related to data privacy and security is essential for responsible web crawler usage.
+😇🌟🔒"
+
+
+
+
